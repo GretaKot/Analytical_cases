@@ -41,4 +41,4 @@ Examples of Notebooks with research on Python
   Python,  
   Pandas, 
   Matplotlib, 
-  NumPy,
+  NumPy.
